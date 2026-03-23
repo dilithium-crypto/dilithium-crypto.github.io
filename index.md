@@ -56,16 +56,9 @@ Phase 3:
 
 ---
 
-## Community
-
-Twitter: https://twitter.com/QAI_token  
-Telegram: https://t.me/QAI_token  
-
----
-
 ## Contact
 
-Email: team@yourdomain.com  
+Email: team@qai-token.store
 
 ---
 
