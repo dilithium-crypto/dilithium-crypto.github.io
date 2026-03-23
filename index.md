@@ -56,6 +56,12 @@ Phase 3:
 
 ---
 
+## Community
+
+Twitter: https://twitter.com/Qaitoken88  
+
+---
+
 ## Contact
 
 Email: team@qai-token.store
